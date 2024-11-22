@@ -1,5 +1,11 @@
 # Construindo primeiro projeto com Python e Flask
 
+<p align="center" style="display: flex; align-items: flex-start; ">
+  <img alt="" title="" src="https://github.com/Gelzieny/python_e_flask/blob/main/.github/img/image.png?raw=true" width="400px">
+
+  <img alt="" title="" src="https://github.com/Gelzieny/python_e_flask/blob/main/.github/img/image1.png?raw=true" width="400px">
+</p>
+
 ### 🎲 Rodando aplicação
 
 ```bash
